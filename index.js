@@ -58,5 +58,21 @@ function init(){
         // },
       ]).then(function(response){
           console.log(response)
+var fileContent = `
+# ${response.projectname}
+-----------------------------
+## _Description_
+${response.description}
+
+### Table of Contents
+* [License](#License)
+* [Contributors](#Contribution)
+* [Installation Instructions](#Installation Instructions)
+* [Testing Requirements](#Testing Requirements)
+* [Usage](#Usage)
+* [GitHub](#GitHub)
+* [Contact](#Contact)
+`
+console.log(fileContent)
       })
 }
