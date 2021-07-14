@@ -44,7 +44,7 @@ function init(){
         {
             type: "input",
             name:"gitHub",
-            message:"GitHub link: "
+            message:"GitHub username: "
         },
         {
             type: "input",
@@ -89,11 +89,18 @@ ${response.Testingrequirements}
 ${response.Usage}
 
 #### GitHub:
+[GitHub profile](https://github.com/${gitHub})
 ${response.gitHub}
 
 #### Contact: 
+If you have any questions feel free to contact me at
 ${response.contact}
 `
+
+fs.writeFileSync("README.md",fileContent,function(err){
+    if (err) throw err;
+    console.log("Markdown generated")
+})
 console.log(fileContent)
       })
 }
