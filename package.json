@@ -1,0 +1,26 @@
+{
+  "name": "readmehomework",
+  "version": "1.0.0",
+  "description": "readmeHomework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnvives/readmeHomework.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "inquirer"
+  ],
+  "author": "cas vives-petralia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnvives/readmeHomework/issues"
+  },
+  "homepage": "https://github.com/cnvives/readmeHomework#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
