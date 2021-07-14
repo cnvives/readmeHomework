@@ -72,6 +72,27 @@ ${response.description}
 * [Usage](#Usage)
 * [GitHub](#GitHub)
 * [Contact](#Contact)
+
+#### License
+![GitHub license](https://img.shields.io/badge/license-${response.License}-blue.svg)
+
+#### Contributions from:
+${response.contributers}
+
+#### Installation Instructions:
+${response.Installationinstructions}
+
+#### Testing Requirements:
+${response.Testingrequirements}
+
+#### Usage: 
+${response.Usage}
+
+#### GitHub:
+${response.gitHub}
+
+#### Contact: 
+${response.contact}
 `
 console.log(fileContent)
       })
