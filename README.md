@@ -1,14 +1,14 @@
 
-# we
+# gh readme generator
 -----------------------------
 ## _Description_
-Node js backend app
+homework
 
 ### Table of Contents
 * [License](#License)
 * [Contributors](#Contribution)
-* [Installation Instructions](#Installation Instructions)
-* [Testing Requirements](#Testing Requirements)
+* [InstallationInstructions](#Installation)
+* [TestingRequirements](#Testing Requirements)
 * [Usage](#Usage)
 * [GitHub](#GitHub)
 * [Contact](#Contact)
@@ -17,18 +17,21 @@ Node js backend app
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 #### Contributions from:
-Cas
+cas
 
 #### Installation Instructions:
-npm i
+manual
 
 #### Testing Requirements:
-Manual
+none
 
 #### Usage: 
-Free
+none
 
 #### GitHub:
-test
+[GitHub profile](https://github.com/cnvives)
+cnvives
 
-#### Contact: test@gmail.com
+#### Contact: 
+If you have any questions feel free to contact me at
+cas@gmail.com

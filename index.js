@@ -67,8 +67,8 @@ ${response.description}
 ### Table of Contents
 * [License](#License)
 * [Contributors](#Contribution)
-* [Installation Instructions](#Installation Instructions)
-* [Testing Requirements](#Testing Requirements)
+* [InstallationInstructions](#Installation)
+* [TestingRequirements](#Testing)
 * [Usage](#Usage)
 * [GitHub](#GitHub)
 * [Contact](#Contact)
@@ -89,7 +89,7 @@ ${response.Testingrequirements}
 ${response.Usage}
 
 #### GitHub:
-[GitHub profile](https://github.com/${gitHub})
+[GitHub profile](https://github.com/${response.gitHub})
 ${response.gitHub}
 
 #### Contact: 
