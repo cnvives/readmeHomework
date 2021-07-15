@@ -1,14 +1,14 @@
 
-# gh readme generator
+# cas
 -----------------------------
 ## _Description_
-homework
+homework readme
 
 ### Table of Contents
 * [License](#License)
 * [Contributors](#Contribution)
 * [InstallationInstructions](#Installation)
-* [TestingRequirements](#Testing Requirements)
+* [TestingRequirements](#Testing)
 * [Usage](#Usage)
 * [GitHub](#GitHub)
 * [Contact](#Contact)
@@ -20,7 +20,7 @@ homework
 cas
 
 #### Installation Instructions:
-manual
+follow them
 
 #### Testing Requirements:
 none
@@ -29,9 +29,9 @@ none
 none
 
 #### GitHub:
-[GitHub profile](https://github.com/cnvives)
-cnvives
+[GitHub profile](https://github.com/cas)
+cas
 
 #### Contact: 
 If you have any questions feel free to contact me at
-cas@gmail.com
+cas@me.com
