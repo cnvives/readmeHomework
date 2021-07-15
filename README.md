@@ -7,8 +7,8 @@ homework readme
 ### Table of Contents
 * [License](#License)
 * [Contributors](#Contribution)
-* [InstallationInstructions](#Installation)
-* [TestingRequirements](#Testing)
+* [Installation Instructions](#Installation)
+* [Testing Requirements](#Testing)
 * [Usage](#Usage)
 * [GitHub](#GitHub)
 * [Contact](#Contact)
@@ -17,16 +17,16 @@ homework readme
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 #### Contributions from:
-cas
+cas 
 
 #### Installation Instructions:
-follow them
+manual
 
 #### Testing Requirements:
 none
 
 #### Usage: 
-none
+free
 
 #### GitHub:
 [GitHub profile](https://github.com/cas)
@@ -34,4 +34,4 @@ cas
 
 #### Contact: 
 If you have any questions feel free to contact me at
-cas@me.com
+cas@gmail.com

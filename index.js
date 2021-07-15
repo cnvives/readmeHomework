@@ -67,8 +67,8 @@ ${response.description}
 ### Table of Contents
 * [License](#License)
 * [Contributors](#Contribution)
-* [InstallationInstructions](#Installation)
-* [TestingRequirements](#Testing)
+* [Installation Instructions](#Installation)
+* [Testing Requirements](#Testing)
 * [Usage](#Usage)
 * [GitHub](#GitHub)
 * [Contact](#Contact)
